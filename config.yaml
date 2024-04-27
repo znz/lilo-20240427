@@ -1,0 +1,24 @@
+---
+id: lilo-20240427
+base_name: ubuntu-riscv64-on-qemu
+tags:
+- ubuntu
+presentation_date: '2024-04-27'
+presentation_start_time:
+presentation_end_time:
+version: 2024.4.27.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 800
+height: 600
+source_code_uri:
+author:
+  markup_language: :markdown
+  name: Kazuhiro NISHIYAMA
+  email: zn@mbf.nifty.com
+  rubygems_user: znz
+  slideshare_user: znzjp
+  speaker_deck_user: znz
